@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="button">Inicio</string>
+    <string name="button2">Fin</string>
+    <string name="cooperativa">cooperativa</string>
+    <string name="parada_inicio">parada_inicio</string>
+    <string name="parada_fin">parada_fin</string>
+
+    <string name="login">LOGIN</string>
+    <string name="username">Usuario</string>
+    <string name="password">Password</string>
+    <string name="not_registered">Aun no ests registrado?</string>
+    <string name="register">Registrate</string>
+    <string name="confirm_password">Confirma Password</string>
+    <string name="already_registered">Ya estas registrado?</string>
+    <string name="welcome_user">Bienvenido</string>
+    <string name="title_activity_menu_general">MenuGeneral</string>
+</resources>
